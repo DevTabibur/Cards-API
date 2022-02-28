@@ -3,3 +3,6 @@
     grid-template-columns: repeat(3, 1fr);
     grid-gap: 10px;
 }
+h1 span{
+    color: rgba(0, 17, 255, 0.795);
+}
